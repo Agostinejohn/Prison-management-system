@@ -1,0 +1,18 @@
+# Compiled binaries
+*.exe
+*.o
+*.out
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.old
+*.orig
